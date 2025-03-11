@@ -1,6 +1,6 @@
 # DOM-harjoitus
 # Project Title 
-The name of the Project and all authors involved
+To do-lista, tehnyt Patricia Luovi
 
 ## Demo link:
 Access my site at [google.com](https://google.com)
