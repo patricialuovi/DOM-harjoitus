@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>To Do Lista</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main>
+    <h1>Tehtävälista</h1>
+    <form id="todo-form">
+      <input type="text" id="task-input" placeholder="Kirjoita tehtävä..." />
+      <button type="submit">Lisää</button>
+      <p id="error-msg" class="hidden">Tehtävän on oltava vähintään 3 merkkiä!</p>
+    </form>
+
+    <section>
+      <h2>Aktiiviset tehtävät</h2>
+      <p id="task-counter">Tehtäviä yhteensä: 0</p>
+      <ul id="task-list"></ul>
+    </section>
+
+    <section>
+      <h2>Valmiit tehtävät</h2>
+      <ul id="done-list"></ul>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
