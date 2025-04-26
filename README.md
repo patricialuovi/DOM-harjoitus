@@ -22,11 +22,13 @@ Tein itse kaiken
 - [License](#license)
 
 ## About The App
-[Todo-lista] on sovellus, joka auttaa organisoimaan esimerkiksi päivittäiset tehtäväsi. Voit kirjoittaa tehtävän mikä sinun täytyy tehdä, ja sen jälkeen voit merkata sen suoritetuksi tai poistaa tehtävän.
+Todo-lista on sovellus, joka auttaa organisoimaan esimerkiksi päivittäiset tehtäväsi. Voit kirjoittaa tehtävän mikä sinun täytyy tehdä, ja sen jälkeen voit merkata sen suoritetuksi tai poistaa tehtävän.
 
 ## Screenshots
 Add here atleast one screenshot of the working application 
 `![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+![Näyttökuva 2025-04-26 134601](https://github.com/user-attachments/assets/1ca45b3b-662a-4f52-abbb-e9b7fb199205)
+
 
 Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
