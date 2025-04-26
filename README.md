@@ -3,10 +3,10 @@
 To do-lista, tehnyt Patricia Luovi
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Access my site at [Todo-lista](https://todoapp-patricia.netlify.app/)
 
 ## How was the workload divided
-How was the workload divided. Who did what? 
+Tein itse kaiken 
 
 
 
@@ -22,7 +22,7 @@ How was the workload divided. Who did what?
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+[Todo-lista] on sovellus, joka auttaa organisoimaan esimerkiksi päivittäiset tehtäväsi. Voit kirjoittaa tehtävän mikä sinun täytyy tehdä, ja sen jälkeen voit merkata sen suoritetuksi tai poistaa tehtävän.
 
 ## Screenshots
 Add here atleast one screenshot of the working application 
