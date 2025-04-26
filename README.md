@@ -9,7 +9,6 @@ Access my site at [Todo-lista](https://todoapp-patricia.netlify.app/)
 Tein itse kaiken 
 
 
-
 ## Table of Content:
 
 - [About The App](#about-the-app)
@@ -38,7 +37,7 @@ Miten käyttää sovellusta:
 - Kirjoita tehtävät mitä haluat
 - Merkkaa ne valmiiksi kun olet tehnyt tehtävän
 - Tehtävä siirtyy valmiisiin tehtäviin
-- Jos et saa tehtävää tehdyksi tai siitä tulee turha, voit poistaa sen
+- Kun saat tehtävän valmiiksi, et saa tehtävää tehdyksi tai siitä tulee turha, voit poistaa sen
 
 ## Status
 Todo-lista on valmis käytettäväksi
@@ -49,6 +48,4 @@ List of contriubutors and sources you used during the project. Also mention if y
 - [Mozilla Developer Network](https://developer.mozilla.org/)
 
 ## License
-Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Example: MIT license @ [author](author.com)
+En saanut lisättyä lisenssiä. Ohjeen mukaan yritin tehdä, mutta se ei antanut vaihtoehtoa "Choose a license template" missään kohdassa.
